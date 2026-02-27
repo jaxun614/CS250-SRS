@@ -1,15 +1,8 @@
 # FineLine Ticketing System
 
-[MarkDown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-<!--
-Source - https://stackoverflow.com/a/4425223
-Posted by Matchu
-Retrieved 2026-02-26, License - CC BY-SA 2.5
--->
-<a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">MarkDown Cheat Sheet!</a>
+[MarkDown Cheat Sheet (do open link in new tab idk how to do it in md)](https://www.markdownguide.org/cheat-sheet/)
 
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 
 Software Requirements Specification
